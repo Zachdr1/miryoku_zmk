@@ -11,5 +11,5 @@ jobs:
       board: '["nice_nano_v2"]'
       shield: '["cradio_left","cradio_right"]'
       alphas: '["qwerty"]'
-      extra: '["colemakdhk"]'
+      extra: '["colemakdh"]'
       nav: '["vi"]'
